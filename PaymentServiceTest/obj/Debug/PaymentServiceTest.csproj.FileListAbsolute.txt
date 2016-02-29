@@ -1,0 +1,10 @@
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\Payments\PaymentServiceTest\obj\Debug\PaymentServiceTest.csprojResolveAssemblyReference.cache
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\Payments\PaymentServiceTest\bin\Debug\PaymentServiceTest.dll
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\Payments\PaymentServiceTest\bin\Debug\PaymentServiceTest.pdb
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\Payments\PaymentServiceTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\Payments\PaymentServiceTest\bin\Debug\Payments.dll
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\Payments\PaymentServiceTest\bin\Debug\Payments.pdb
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\Payments\PaymentServiceTest\obj\Debug\PaymentServiceTest.dll
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\Payments\PaymentServiceTest\obj\Debug\PaymentServiceTest.pdb
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\Payments\PaymentServiceTest\bin\Debug\Utilities.dll
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\Payments\PaymentServiceTest\bin\Debug\Utilities.pdb

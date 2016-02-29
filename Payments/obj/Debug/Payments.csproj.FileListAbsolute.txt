@@ -1,0 +1,10 @@
+c:\users\akash\documents\visual studio 2015\Projects\Payments\Payments\bin\Payments.dll.config
+c:\users\akash\documents\visual studio 2015\Projects\Payments\Payments\bin\Payments.dll
+c:\users\akash\documents\visual studio 2015\Projects\Payments\Payments\bin\Payments.pdb
+c:\users\akash\documents\visual studio 2015\Projects\Payments\Payments\obj\Debug\Payments.dll
+c:\users\akash\documents\visual studio 2015\Projects\Payments\Payments\obj\Debug\Payments.pdb
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\Payments\Payments\bin\Utilities.dll
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\Payments\Payments\bin\Utilities.pdb
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\Payments\Payments\obj\Debug\Payments.csprojResolveAssemblyReference.cache
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\Payments\Payments\bin\Common.dll
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\Payments\Payments\bin\Common.pdb
