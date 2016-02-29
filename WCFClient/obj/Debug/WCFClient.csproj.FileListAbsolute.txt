@@ -79,3 +79,4 @@ C:\Users\Akash\Documents\Visual Studio 2015\Projects\Payments\WCFClient\bin\Micr
 C:\Users\Akash\Documents\Visual Studio 2015\Projects\Payments\WCFClient\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\Akash\Documents\Visual Studio 2015\Projects\Payments\WCFClient\obj\Debug\WCFClient.dll
 C:\Users\Akash\Documents\Visual Studio 2015\Projects\Payments\WCFClient\obj\Debug\WCFClient.pdb
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\Payments\WCFClient\obj\Debug\WCFClient.csprojResolveAssemblyReference.cache

@@ -18,8 +18,8 @@ namespace Payments
         public string WhatsYourId()
         {
             try
-                { 
-                string candidateId = "59bb09f7-df66-45d0-9bcc-79c2d4d2ced1";
+                {
+                string candidateId = GlobalConstants.CANDIDATE_ID;
                 return candidateId;
             }
             catch (FaultException ex)
